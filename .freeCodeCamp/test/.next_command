@@ -199,3 +199,11 @@ pwd
 git init
 git remote -v
 git add .
+git commit -m "Agrego scripts del proyecto y dump de base de datos"+
+git branch
+git push -u origin main
+__vsc_prompt_cmd_original
+git pull origin main --rebase
+git push -u origin main
+git pull origin main --rebase
+git add .
