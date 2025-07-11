@@ -191,3 +191,11 @@ git config --global credential.helper store
 AngeloTargaryen
 git remote add origin https://github.com/AngeloTargaryen/worldcup-database.git
 git add .
+git commit -m "Agrego scripts del proyecto y dump de base de datos"
+git branch
+git push -u origin main
+__vsc_prompt_cmd_original
+pwd
+git init
+git remote -v
+git add .
